@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "IK~4bd12YqR#y6PncdodMXgK14rHCQwnI59658BQWLEQq6nNqm9QrzE"
     },  
     
     "STICKER_NAME": {
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "51960285930"
 
     }, 
 
@@ -174,7 +174,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "🖥️"
     }, 
     
     "ANTI_DEL_PATH": {
