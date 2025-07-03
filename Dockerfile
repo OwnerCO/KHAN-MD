@@ -1,5 +1,5 @@
 FROM node:lts-buster
-RUN git clone https://github.com/JawadYT36/KHAN-MD/root/ikJawadx
+RUN git clone https://github.com/OwnerCO/KHAN-MD /root/ikJawadx
 WORKDIR /root/ikJawadx
 RUN npm install && npm install -g pm2 || yarn install --network-concurrency 1
 COPY . .
